@@ -7,11 +7,12 @@ Software Engineering is the art and science of designing, formulating and develo
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
-Software Engineering primarily helps to solve programs using computer and software applications. In the technology industry, software engineering helps us apply computer Application to solve practical problems 
+Software Engineering is the application of scientific knowledge to build softwares that solve problems
+
+Software Engineering primarily helps to solve programs using computer and software applications. In the technology industry, software engineering helps us apply computer Applications to solve practical problems 
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-
 
 
 
